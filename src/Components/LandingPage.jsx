@@ -56,7 +56,7 @@ const LandingPage = () => {
               to={item.link}
               >
               
-              </Link>
+              </Link> 
               </>
             ))
           }
